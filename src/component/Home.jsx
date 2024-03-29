@@ -9,8 +9,8 @@ const Home = () => {
             <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
                 <p className='text-[#E72929]'>Hi my name</p>
                 <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>Teddy F Willie</h1>
-                <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>I am a Full Sack Web Developer</h2>
-                <p className='text-[#8892b0] py-4 max-w-[700px]:'>
+                <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>I am a Front-End Web Developer</h2>
+                <p className='text-[#8892b0] py-4 text-2xl max-w-[700px]:'>
                 As a front-end developer, I specialize in crafting engaging and user-friendly web experiences through effective utilization of HTML,
                 CSS, and JavaScript. With a keen eye for design and a passion for creating seamless interactions,
                 I strive to bring innovative and responsive websites to life.

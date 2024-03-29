@@ -17,7 +17,7 @@ const About = () => {
                         <p>Hello! I am Teddy. Nice to meet you, Welcome to my Portfolio</p>
                     </div>
                     <div >
-                        <p>I am Front-end Web Developer adept in collaborating
+                        <p className='text-2xl'>I am Front-end Web Developer adept in collaborating
                             with UX and design teams to plan the technical writing and execution of functional 
                             specifications for websites and applications. Experienced in building multi-platform 
                             websites using Responsive Web Design/RWD.</p>
