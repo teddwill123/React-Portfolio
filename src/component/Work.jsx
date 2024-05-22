@@ -1,10 +1,10 @@
 import React from 'react'
-import WorkImg from "../assets/projects/workImg.jpeg"
-import realEstate from "../assets/projects/realestate.jpg"
+import newsApp from "../assets/projects/newsApp.png"
+import netflixClone from "../assets/projects/Netflix.png"
 import MyRun from "../assets/projects/myRun.png"
 import ProjectTracker from "../assets/projects/projectTracker.png"
 import WeatherApp from "../assets/projects/weatherApp.png"
-import ReadmeGen from "../assets/projects/readmeGen.png"
+import biteByte from "../assets/projects/biteByte.png"
 
 const Work = () => {
     return (
@@ -20,7 +20,7 @@ const Work = () => {
                 <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
 
                     {/* Grid Item */}
-                    <div style={{background: `url(${WorkImg})`}} className='shadow-lg shadow-[#040c16 group container rounded-md flex justify-center items-center mx-auto content-dev'>
+                    <div style={{background: `url(${newsApp})`, backgroundSize: 'cover', backgroundPosition: 'center'}} className='shadow-lg shadow-[#040c16 group container rounded-md flex justify-center items-center mx-auto content-dev'>
 
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
@@ -39,7 +39,7 @@ const Work = () => {
                     </div>
                     
                         {/* Grid Item */}
-                    <div style={{background: `url(${realEstate})`}} className='shadow-lg shadow-[#040c16 group container rounded-md flex justify-center items-center mx-auto content-dev'>
+                    <div style={{background: `url(${netflixClone})`, backgroundSize: 'cover', backgroundPosition: 'center'}} className='shadow-lg shadow-[#040c16 group container rounded-md flex justify-center items-center mx-auto content-dev'>
 
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
@@ -47,16 +47,16 @@ const Work = () => {
                                 React JS Application
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="/">
+                                <a href="https://desire-netflix-23.netlify.app">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>DEMO</button>
                                 </a>
-                                <a href="/">
+                                <a href="https://github.com/teddwill123/NETFLIX-REACT-JS">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>CODE</button>
                                 </a>
                             </div>
                         </div>
                     </div>                    {/* Grid Item */}
-                    <div style={{background: `url(${MyRun})`}} className='shadow-lg shadow-[#040c16 group container rounded-md flex justify-center items-center mx-auto content-dev'>
+                    <div style={{background: `url(${MyRun})`, backgroundSize: 'cover', backgroundPosition: 'center'}} className='shadow-lg shadow-[#040c16 group container rounded-md flex justify-center items-center mx-auto content-dev'>
 
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
@@ -75,7 +75,7 @@ const Work = () => {
                     </div>
                     
                         {/* Grid Item */}
-                    <div style={{background: `url(${ProjectTracker})`}} className='shadow-lg shadow-[#040c16 group container rounded-md flex justify-center items-center mx-auto content-dev'>
+                    <div style={{background: `url(${ProjectTracker})`, backgroundSize: 'cover', backgroundPosition: 'center'}} className='shadow-lg shadow-[#040c16 group container rounded-md flex justify-center items-center mx-auto content-dev'>
 
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
@@ -86,13 +86,13 @@ const Work = () => {
                                 <a href="/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>DEMO</button>
                                 </a>
-                                <a href="/">
+                                <a href="https://github.com/teddwill123/Project-Tracker">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>CODE</button>
                                 </a>
                             </div>
                         </div>
                     </div>                    {/* Grid Item */}
-                    <div style={{background: `url(${WeatherApp})`}} className='shadow-lg shadow-[#040c16 group container rounded-md flex justify-center items-center mx-auto content-dev'>
+                    <div style={{background: `url(${WeatherApp})`, backgroundSize: 'cover', backgroundPosition: 'center'}} className='shadow-lg shadow-[#040c16 group container rounded-md flex justify-center items-center mx-auto content-dev'>
 
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
@@ -111,7 +111,7 @@ const Work = () => {
                     </div>
                     
                         {/* Grid Item */}
-                    <div style={{background: `url(${ReadmeGen})`}} className='shadow-lg shadow-[#040c16 group container rounded-md flex justify-center items-center mx-auto content-dev'>
+                    <div style={{background: `url(${biteByte})`, backgroundSize: 'cover', backgroundPosition: 'center'}} className='shadow-lg shadow-[#040c16 group container rounded-md flex justify-center items-center mx-auto content-dev'>
 
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
@@ -119,10 +119,10 @@ const Work = () => {
                             Readme-Generator
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="https://teddwill123.github.io/Readme-Generator/">
+                                <a href="https://bite-bytes.netlify.app/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>DEMO</button>
                                 </a>
-                                <a href="https://github.com/teddwill123/Readme-Generator">
+                                <a href="https://github.com/teddwill123/Bite-Bytes">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>CODE</button>
                                 </a>
                             </div>
