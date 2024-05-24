@@ -7,7 +7,7 @@
 
 @layer base {
     body {
-        font-family: 'Roboto', sans-serif; /* Apply font directly */
+        font-family: 'sans-serif'; /* Apply font directly */
     }
     li {
         /* Apply Tailwind classes directly */

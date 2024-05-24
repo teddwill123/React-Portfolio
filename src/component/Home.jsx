@@ -7,7 +7,7 @@ const Home = () => {
 
             {/* Introduction */}
             <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full pt-6'>
-                <p className='text-[#E72929]'>Hi my name</p>
+                <p className='text-[#38BDF8]'>Hi my name</p>
                 <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>Teddy F Willie</h1>
                 <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>I am a Front-End Web Developer</h2>
                 <p className='text-[#8892b0] py-4 text-[17px]  max-w-[700px]:'>
@@ -16,7 +16,7 @@ const Home = () => {
                 I strive to bring innovative and responsive websites to life.
                 </p>
                 <div>
-                    <button className='text-[white] group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#E72929] hover:border-[#E72929]'>
+                    <button className='text-[white] group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#38BDF8] hover:border-[#38BDF8]'>
                         View Work 
                         <span className='group-hover:rotate-90 duration-300'>
                         <AiOutlineArrowRight className='ml-3' />

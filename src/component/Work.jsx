@@ -12,7 +12,7 @@ const Work = () => {
             {/* Continier */}
             <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
                 <div className='pb-8'>
-                    <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-[#E72929]'>Work</p>
+                    <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-[#38BDF8]'>Work</p>
                     <p className='py-6'>Checkout some of my recent work</p>
                 </div>
 
@@ -25,13 +25,13 @@ const Work = () => {
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                React JS Application
+                                NEWS APP
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="/">
+                                <a href="https://teddy-news123.netlify.app/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>DEMO</button>
                                 </a>
-                                <a href="/">
+                                <a href="https://github.com/teddwill123/News-App">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>CODE</button>
                                 </a>
                             </div>
@@ -44,10 +44,10 @@ const Work = () => {
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                React JS Application
+                                NETFLIX CLONE
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="https://desire-netflix-23.netlify.app">
+                                <a href="https://desired-movies-23.netlify.app/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>DEMO</button>
                                 </a>
                                 <a href="https://github.com/teddwill123/NETFLIX-REACT-JS">
@@ -61,7 +61,7 @@ const Work = () => {
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                My Run
+                                MY RUN
                             </span>
                             <div className='pt-8 text-center'>
                                 <a href="https://anarab.github.io/MyRun/">
@@ -80,7 +80,7 @@ const Work = () => {
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                Project Tracker
+                                PROJECT TRACKER
                             </span>
                             <div className='pt-8 text-center'>
                                 <a href="https://teddwill123.github.io/Project-Tracker/">
@@ -97,7 +97,7 @@ const Work = () => {
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                            Weather-Dashboard
+                            WEATHER-DASHBOAED
                             </span>
                             <div className='pt-8 text-center'>
                                 <a href="https://teddwill123.github.io/Weather-Dashboard/">
@@ -116,7 +116,7 @@ const Work = () => {
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                            Readme-Generator
+                            BITE BYTES
                             </span>
                             <div className='pt-8 text-center'>
                                 <a href="https://bite-bytes.netlify.app/">
